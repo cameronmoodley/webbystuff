@@ -1,0 +1,23 @@
+{
+  "name": "webbystuff",
+  "version": "1.0.0",
+  "description": "Digital Agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronmoodley/webbystuff.git"
+  },
+  "author": "Cameron Moodley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronmoodley/webbystuff/issues"
+  },
+  "homepage": "https://github.com/cameronmoodley/webbystuff#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "sass": "^1.0.0-beta.2"
+  }
+}
